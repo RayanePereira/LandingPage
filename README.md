@@ -4,3 +4,5 @@
 * Estamos então aplicando as instruções com o intuito de praticar um pouco mais.
  
 * A costumização é a parte, cada um pode fazer do jeito que imaginar.
+
+* No momento temos duas ramificações
