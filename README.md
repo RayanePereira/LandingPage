@@ -5,4 +5,4 @@
  
 * A costumização é a parte, cada um pode fazer do jeito que imaginar.
 
-* No momento temos duas ramificações
+* No momento temos duas ramificações, uma delas é a da live e a outra é minha customização.
