@@ -3,4 +3,4 @@
  
 * Estamos então aplicando as instruções com o intuito de praticar um pouco mais.
  
-* A costumização é a parte, cada um pode fazer do jeito que imaginar.
+* A costumização é a parte, cada um pode fazer do jeito que imaginar e deixar mais com a sua própria face.
